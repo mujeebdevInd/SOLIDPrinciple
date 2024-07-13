@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLIDPrinciple", "SOLIDPrin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCP", "OCP\OCP.csproj", "{87332A46-A291-41B9-9A78-2A85FD874001}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSP", "LSP\LSP.csproj", "{02787CA7-7C24-45ED-A95E-FE83EA229ED0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{87332A46-A291-41B9-9A78-2A85FD874001}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87332A46-A291-41B9-9A78-2A85FD874001}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87332A46-A291-41B9-9A78-2A85FD874001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02787CA7-7C24-45ED-A95E-FE83EA229ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02787CA7-7C24-45ED-A95E-FE83EA229ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02787CA7-7C24-45ED-A95E-FE83EA229ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02787CA7-7C24-45ED-A95E-FE83EA229ED0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
