@@ -37,29 +37,5 @@ namespace OCP
             processor3.ProcessPayment();
         }
     }
-    public class CreditCardPayment : IPaymentMethod
-    {
-        public void ProcessPayment()
-        {
-            // Process credit card payment
-            Console.WriteLine("Processing credit card payment.");
-        }
-    }
-
-    public class PayPalPayment : IPaymentMethod
-    {
-        public void ProcessPayment()
-        {
-            // Process PayPal payment
-            Console.WriteLine("Processing PayPal payment.");
-        }
-    }
-    public class BitcoinPayment : IPaymentMethod
-    {
-        public void ProcessPayment()
-        {
-            // Process Bitcoin payment
-            Console.WriteLine("Processing Bitcoin payment.");
-        }
-    }
+    
 }
